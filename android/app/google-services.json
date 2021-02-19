@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218197165288",
+    "firebase_url": "https://bgl-prototypes.firebaseio.com",
+    "project_id": "bgl-prototypes",
+    "storage_bucket": "bgl-prototypes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218197165288:android:3c4865882a48666174b55d",
+        "android_client_info": {
+          "package_name": "com.fanatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218197165288-tuv4v3fr8rmuar6oijac7u3jgoo249ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXliOSbUEFoAo6KaemrJ58YYxsHb4vEck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218197165288-f4fviuttq160nvnlia1ce4bdqkaa0k3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
